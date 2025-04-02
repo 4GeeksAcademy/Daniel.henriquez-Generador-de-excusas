@@ -24,10 +24,6 @@ window.onload = function() {
 
   excuse.textContent = text;
   excuse.style.fontSize = "50 px";
-  excuse.style.textAlign = "center"
-  
-}
-
-
+  excuse.style.textAlign = "center";
   
 };
